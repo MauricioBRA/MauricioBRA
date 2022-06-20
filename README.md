@@ -20,3 +20,4 @@
 </div><br/>
 
 ##### Sou apaixonado por carros e tecnologias/inteligência artificial, e adoro músicas eletrônicas.
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/97629147/174509731-5ba04abd-5889-4952-8fb0-f6af17634c65.gif)
