@@ -1,6 +1,8 @@
 ### Hallo ich bin Mauricio Ferreira, sou estudande de Alemão/Deutch 🇩🇪 🤓 e curso faculdade de Analise e Desenvolvimento de sistemas. 💻🤖
 
-![MauricioBRA GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioBRA&show_icons=true&theme=algolia)<br/>
+![MauricioBRA GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioBRA&show_icons=true&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioBRA&layout=compact&show_icons=true&theme=algolia)](https://github.com/MauricioBRA/github-readme-stats)
+<br/>
 [![LinkedInd](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-oliveira-ferreira-5a703619b/)
 [![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/owa/)
   
